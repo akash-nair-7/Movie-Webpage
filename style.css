@@ -1,0 +1,132 @@
+
+.mainTitle{
+    
+    font-size: 8vh;
+    margin-top: 38px;
+    color:#ffee46;
+    text-shadow: 3.5px 2.5px 1px #b3242d;
+    letter-spacing: 1vw;
+    float: left;
+}
+#mainTitle1{
+    margin-left: 25%;
+}
+#mainTitle2{
+    margin-left: 10px;
+}
+#minnal{
+    height:55px   ;
+    float: left;
+    margin-top: 38px;
+
+}
+.mainHead{
+    background-image: radial-gradient(500px 550px,#1d224a,#b3242d);
+    height: 130px;
+    border-radius: 15px;
+
+}
+#mainDescription{
+    max-width: 65%;
+    padding: 3%;
+    float: left;
+    color: white;
+    padding-top: 6vh;
+    height: 380px;
+    font-size: 3.5vh;
+    line-height: 5.5vh;
+    
+}
+.descriptonAndPoster{
+     background-image: linear-gradient(to right,#1d224a 40%,#b3242d);
+    width: 100%;
+    border-radius: 15px;
+}
+#poster{
+    border-radius:25%;
+    width: 20vw;
+    height: 55vh;
+    margin-left: 3%;
+    margin-top: 10vh;
+    margin-bottom: 10px;
+   box-shadow: 7px 1px 11px #ffee46 ;
+}
+.cast{
+    width: 100%;
+    color:white;
+    border:none;
+    margin-left: -10px;
+    
+}
+#castHeading{
+    margin-left: 40px;
+}
+.castPic{
+    height: 35vh;
+    width: 15vw;
+    margin-left: 3%;
+    border-radius: 50%;
+    box-shadow: 4px 1px 6px black;
+}
+.castButton{
+    
+    margin-top: 15px;
+    border-radius: 10px;
+    height: 6vh;
+    width: 15vw;
+    background-color: #3044d8;
+    color: white;
+    border: none;
+}
+.castButton:hover{
+    background-color: #d80d1a;
+}
+#cast1,#cast2,#cast3,#cast4,#cast5{
+    margin-left: 3vw;
+}
+
+.casting{
+    padding-left: 15px;
+}
+
+.info{
+    height: 61vh;
+    width: 40vw;
+    float: right;
+    margin-right: 3vw;
+    margin-top: -64vh;
+    color: white;
+    
+    border-collapse: collapse;
+}
+.infoRows{
+    padding-left: 30px;
+    border: 2px solid white;
+    font-size: 18px;
+}
+.rating{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    background-image: radial-gradient(500px 550px,#1d224a,#b3242d);
+    border-radius: 15px;
+    padding-top: 2px;
+   
+}
+.trailor{
+    margin-left: 40px;
+}
+.trailorVideo{
+    height: 80vh;
+    width: 45vw;
+}
+.secondPart{
+    margin-top: 10px;
+    border-radius: 15px;
+     background-image: linear-gradient(to right,#1d224a 40%,#b3242d);
+    height: 700px;
+}
+.tableContainer{
+    margin-left: 7vw;
+}
+
